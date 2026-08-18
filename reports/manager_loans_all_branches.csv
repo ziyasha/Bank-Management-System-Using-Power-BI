@@ -1,0 +1,6 @@
+loan_id,full_name,branch,loan_amount,loan_type,duration,status,admin_status
+1,Priya Sharma,Koramangala,2500000.00,HOME,240,PENDING,PENDING
+2,Rahul Verma,Koramangala,800000.00,CAR,60,VERIFIED_BY_STAFF,PENDING
+3,Ayesha Khan,Indiranagar,150000.00,PERSONAL,24,APPROVED_BY_ADMIN,APPROVED
+4,Vikram Singh,Indiranagar,100000.00,PERSONAL,12,REJECTED_BY_ADMIN,REJECTED
+5,Neha Joshi,Whitefield,600000.00,CAR,48,PENDING,PENDING

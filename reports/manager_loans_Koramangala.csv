@@ -1,0 +1,3 @@
+loan_id,full_name,branch,loan_amount,loan_type,duration,status,admin_status
+1,Priya Sharma,Koramangala,2500000.00,HOME,240,PENDING,PENDING
+2,Rahul Verma,Koramangala,800000.00,CAR,60,VERIFIED_BY_STAFF,PENDING

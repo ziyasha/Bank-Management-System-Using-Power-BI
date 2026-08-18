@@ -1,0 +1,5 @@
+account_number,account_type,balance,account_status,account_request_status,user_id,full_name,branch
+AC20000001,SAVINGS,15000.00,ACTIVE,APPROVED,10,Priya Sharma,Koramangala
+AC20000002,SAVINGS,8500.00,ACTIVE,APPROVED,11,Rahul Verma,Koramangala
+AC20000007,SAVINGS,5400.00,ACTIVE,APPROVED,16,Fatima Sheikh,Koramangala
+AC20000010,SAVINGS,1500.00,ACTIVE,APPROVED,19,Amitabh Das,Koramangala

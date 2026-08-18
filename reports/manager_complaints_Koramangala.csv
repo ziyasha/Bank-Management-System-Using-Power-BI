@@ -1,0 +1,3 @@
+complaint_id,full_name,branch,subject,status,created_at,resolved_on
+1,Priya Sharma,Koramangala,ATM Card Not Working,OPEN,2026-08-02 02:01:12,
+2,Rahul Verma,Koramangala,Wrong Balance Shown,OPEN,2026-08-02 02:01:12,

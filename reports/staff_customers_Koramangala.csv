@@ -1,0 +1,5 @@
+user_id,full_name,email,phone,branch,status,total_accounts,total_balance
+10,Priya Sharma,priya.sharma@gmail.com,9900000101,Koramangala,ACTIVE,1,15000.00
+11,Rahul Verma,rahul.verma@gmail.com,9900000102,Koramangala,ACTIVE,1,8500.00
+16,Fatima Sheikh,fatima.sheikh@gmail.com,9900000107,Koramangala,ACTIVE,1,5400.00
+19,Amitabh Das,amitabh.das@gmail.com,9900000110,Koramangala,ACTIVE,1,1500.00

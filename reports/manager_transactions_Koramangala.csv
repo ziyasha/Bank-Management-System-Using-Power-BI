@@ -1,0 +1,4 @@
+transaction_id,account_number,transaction_type,amount,balance_after,transaction_time,branch
+1,AC20000001,DEPOSIT,5000.00,15000.00,2026-08-02 02:01:12,Koramangala
+2,AC20000002,DEPOSIT,2000.00,8500.00,2026-08-02 02:01:12,Koramangala
+7,AC20000007,TRANSFER_OUT,1500.00,5400.00,2026-08-02 02:01:12,Koramangala
